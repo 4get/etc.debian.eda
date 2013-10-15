@@ -1,0 +1,10 @@
+# 
+
+# deb cdrom:[Debian GNU/Linux 7.0.0 _Wheezy_ - Official Snapshot amd64 LIVE/INSTALL Binary 20130505-10:47]/ wheezy main
+
+deb cdrom:[Debian GNU/Linux 7.0.0 _Wheezy_ - Official Snapshot amd64 LIVE/INSTALL Binary 20130505-10:47]/ wheezy main
+
+# Line commented out by installer because it failed to verify:
+#deb http://security.debian.org/ wheezy/updates main
+# Line commented out by installer because it failed to verify:
+#deb-src http://security.debian.org/ wheezy/updates main
